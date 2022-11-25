@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xml>
+    <empleados>
+        <Empleado>
+            <identificador>1</identificador>
+            <denominado>paco</denominado>
+            <salario>123.0</salario>
+        </Empleado>
+        <Empleado>
+            <identificador>3</identificador>
+            <denominado>fer</denominado>
+            <salario>345.0</salario>
+        </Empleado>
+        <Empleado>
+            <identificador>6</identificador>
+            <denominado>diego</denominado>
+            <salario>678.0</salario>
+        </Empleado>
+    </empleados>
+</xml>
